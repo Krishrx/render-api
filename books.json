@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "1984",
+    "author": "George Orwell",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 10.50
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 8.75
+  },
+  {
+    "id": 5,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 12.99
+  },
+  {
+    "id": 6,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 11.25
+  },
+  {
+    "id": 7,
+    "name": "Animal Farm",
+    "author": "George Orwell",
+    "price": 7.99
+  },
+  {
+    "id": 8,
+    "name": "Lord of the Flies",
+    "author": "William Golding",
+    "price": 9.25
+  },
+  {
+    "id": 9,
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 10.99
+  },
+  {
+    "id": 10,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 14.50
+  }
+]
